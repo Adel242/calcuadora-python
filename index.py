@@ -68,30 +68,3 @@ def menu():
 					print("\n> eliga una opcion valida del menu <\n")
 
 menu()
-
-	
-
-
-
-
-
-	
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-
-
-# mult
-# div
-
